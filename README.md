@@ -40,17 +40,19 @@ pip install -r requirements.txt
 ### 2. 🤖 Log into Hugging Face (if using DeepSeek or gated LLMs)
 If you're using DeepSeek or LLaMA models:
 
-bash
+```bash
 Copy
 Edit
 huggingface-cli login
+```
 Or in code:
 
-python
+```python
 Copy
 Edit
 from huggingface_hub import login
 login(token="hf_...")
+```
 
 ### 3. 📥 Upload a Video
 Replace the line below with your video path:
