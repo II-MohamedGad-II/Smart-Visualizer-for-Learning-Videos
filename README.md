@@ -41,15 +41,11 @@ pip install -r requirements.txt
 If you're using DeepSeek or LLaMA models:
 
 ```bash
-Copy
-Edit
 huggingface-cli login
 ```
 Or in code:
 
 ```python
-Copy
-Edit
 from huggingface_hub import login
 login(token="hf_...")
 ```
