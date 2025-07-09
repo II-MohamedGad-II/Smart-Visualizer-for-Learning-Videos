@@ -53,21 +53,15 @@ login(token="hf_...")
 ### 3. 📥 Upload a Video
 Replace the line below with your video path:
 
-python
-Copy
-Edit
-video_file = "E:/course.mp4"
-
+```python
+video_file = "/video/path.mp4"
+```
 ### 4. ▶️ Run the Notebook
 The notebook will:
-
-Transcribe the video
-
-Ask the language model for key moments to visualize
-
-Generate images for those moments
-
-Overlay the images into the video timeline
+- Transcribe the video
+- Ask the language model for key moments to visualize
+- Generate images for those moments
+- Overlay the images into the video timeline
 
 ## 🧠 How the Model Picks Moments
 We prompt the LLM with a detailed instruction like:
