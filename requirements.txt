@@ -1,0 +1,10 @@
+transformers
+diffusers
+moviepy
+numpy
+Pillow
+ffmpeg-python
+torch
+sentencepiece
+whisper
+nltk
