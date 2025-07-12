@@ -50,7 +50,7 @@ Or in code:
 
 ```python
 from huggingface_hub import login
-login(token="hf_...")
+notebook_login() # Then enter your hf token
 ```
 
 ### 3. 📥 Upload a Video
