@@ -18,6 +18,9 @@ This notebook takes an educational video and automatically enhances it by:
 - ✅ Uses Stable Diffusion (`CompVis/stable-diffusion-v1-4`) to generate matching images
 - ✅ Overlays generated images on video using MoviePy
 
+Input Sample: https://drive.google.com/file/d/1_7vdCyQBA0rj40-PudVQ1M1NxmL5apwI/view?usp=sharing
+Output: https://drive.google.com/file/d/1950SfGDCOJ7fqDrWpbcGWIneqolX4n32/view?usp=sharing
+
 ---
 
 ## 📁 Files
