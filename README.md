@@ -16,8 +16,8 @@ This notebook takes an educational video and automatically enhances it by:
 
 - ✅ Converts video to audio in-memory using `ffmpeg`
 - ✅ Transcribes using Whisper (`base` model)
-- ✅ Extracts most visualizable ideas via a prompt to an LLM
-- ✅ Parses the LLM response into structured segments
+- ✅ Extracts most visualizable ideas via a prompt to deepseek-V3
+- ✅ Parses the deepseek response into structured segments
 - ✅ Uses Stable Diffusion (`CompVis/stable-diffusion-v1-4`) to generate matching images
 - ✅ Overlays generated images on video using MoviePy
 
