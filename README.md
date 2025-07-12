@@ -8,6 +8,9 @@ This notebook takes an educational video and automatically enhances it by:
 4. **Overlaying the generated images** at the right timestamps in the video to improve engagement and understanding.
 
 ---
+- Input Sample: https://drive.google.com/file/d/1_7vdCyQBA0rj40-PudVQ1M1NxmL5apwI/view?usp=sharing
+- Output: https://drive.google.com/file/d/1950SfGDCOJ7fqDrWpbcGWIneqolX4n32/view?usp=sharing
+---
 
 ## 📦 Features
 
@@ -17,9 +20,6 @@ This notebook takes an educational video and automatically enhances it by:
 - ✅ Parses the LLM response into structured segments
 - ✅ Uses Stable Diffusion (`CompVis/stable-diffusion-v1-4`) to generate matching images
 - ✅ Overlays generated images on video using MoviePy
----
-- Input Sample: https://drive.google.com/file/d/1_7vdCyQBA0rj40-PudVQ1M1NxmL5apwI/view?usp=sharing
-- Output: https://drive.google.com/file/d/1950SfGDCOJ7fqDrWpbcGWIneqolX4n32/view?usp=sharing
 
 ---
 
