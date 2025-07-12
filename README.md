@@ -22,8 +22,8 @@ This notebook takes an educational video and automatically enhances it by:
 
 ## 📁 Files
 
-- `Notebook.ipynb` – Main notebook containing all logic
-- `E:/course.mp4` – Sample input video (you should replace with your own)
+- `Smart Visualizer.ipynb` – Main notebook containing all logic
+- `CourseVideo.mp4` – Sample input video (you should replace with your own)
 
 ---
 
