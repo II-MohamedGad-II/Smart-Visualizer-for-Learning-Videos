@@ -16,7 +16,7 @@ This notebook takes an educational video and automatically enhances it by:
 
 - ✅ Converts video to audio in-memory using `ffmpeg`
 - ✅ Transcribes using Whisper (`base` model)
-- ✅ Extracts most visualizable ideas via a prompt to deepseek-V3
+- ✅ Extracts most visualizable ideas via a prompt to deepseek-coders
 - ✅ Parses the deepseek response into structured segments
 - ✅ Uses Stable Diffusion (`CompVis/stable-diffusion-v1-4`) to generate matching images
 - ✅ Overlays generated images on video using MoviePy
@@ -65,6 +65,8 @@ The notebook will:
 - Ask the language model for key moments to visualize
 - Generate images for those moments
 - Overlay the images into the video timeline
+
+**Note that the code will download deepseek model locally
 
 ## 🧠 How the Model Picks Moments
 We prompt the LLM with a detailed instruction like:
