@@ -26,7 +26,7 @@ This notebook takes an educational video and automatically enhances it by:
 ## 📁 Files
 
 - `Smart Visualizer.ipynb` – Main notebook containing all logic
-- `CourseVideo.mp4` – Sample input video (you should replace with your own)
+- `requirements.txt` – Required libraries to run the code
 
 ---
 
